@@ -26,3 +26,6 @@ Painel de links ao passar o cursor do mouse sobre os botões
 - [Vite](https://vite.dev/)
 - [Tailwind](https://tailwindcss.com/)
 
+
+### Deploy
+[Social links profile](https://ktrindade.netlify.app/)
