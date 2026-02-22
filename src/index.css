@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  /*
+  - Green: hsl(75, 94%, 57%)
+
+  - White: hsl(0, 0%, 100%)
+
+  - Grey 700: hsl(0, 0%, 20%)
+  - Grey 800: hsl(0, 0%, 12%)
+  - Grey 900: hsl(0, 0%, 8%)
+  */
+  --color-green: hsl(75, 94%, 57%);
+  --color-white: hsl(0, 0%, 100%);
+  --color-grey-700: hsl(0, 0%, 20%);
+  --color-grey-800: hsl(0, 0%, 12%);
+  --color-grey-900: hsl(0, 0%, 8%);
+}
+
+html {
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+
+  background-color: var(--color-grey-900);
+}

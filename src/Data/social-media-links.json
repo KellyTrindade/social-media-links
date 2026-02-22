@@ -1,0 +1,29 @@
+{ 
+    "socialMedias": 
+    [
+        {
+            "url": "https://kellytrindade.46graus.com/",
+            "name": "Portfólio de Fotografia"
+        },
+        {
+            "url": "https://www.instagram.com/ktrindade.ph",
+            "name": "Instagram de Fotografia"
+        },
+        {
+            "url": "https://www.instagram.com/lykke.dj",
+            "name": "Instagram de DJ"
+        },
+        {
+            "url": "https://www.tiktok.com/@lykke.dj",
+            "name": "TikTok"
+        },
+        {
+            "url": "https://soundcloud.com/kelly-cristina-trindade/tracks",
+            "name": "Souncloud"
+        },
+        {
+            "url": "https://github.com/KellyTrindade",
+            "name": "GitHub"
+        }
+    ]
+}
