@@ -2,7 +2,7 @@ import SocialMedia from "./SocialMedia"
 
 import links from "../Data/social-media-links.json"
 
-import imgPerfil from "../assets/meu-avatar.jpg"
+import imgPerfil from "https://avatars.githubusercontent.com/u/23512398?v=4"
 
 const Card = () => {
     return (
