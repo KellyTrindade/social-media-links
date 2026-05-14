@@ -2,14 +2,12 @@ import SocialMedia from "./SocialMedia"
 
 import links from "../Data/social-media-links.json"
 
-import imgPerfil from "https://avatars.githubusercontent.com/u/23512398?v=4"
-
 const Card = () => {
     return (
         <div className="max-w-md flex flex-col items-center bg-grey-800 p-10 rounded-xl">
             <img
                 className="max-w-20 rounded-full mb-6" 
-                src={imgPerfil} 
+                src="https://avatars.githubusercontent.com/u/23512398?v=4"
                 alt="Ícone de perfil" 
                 />
 
